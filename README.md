@@ -54,5 +54,5 @@ To run this project locally, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/User-Login-Demo.git
+   git clone https://github.com/SanketRt/User-Login-Demo.git
    cd User-Login-Demo
